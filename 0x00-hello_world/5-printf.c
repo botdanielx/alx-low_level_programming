@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include<stdio.h>
 /**
  * main - is the entry point to the program
  * Return:zero if no error, non-zero value if errors
