@@ -30,9 +30,9 @@ main.h: Header file containing prototypes for all functions written in the proje
 
 Numbers are separated by a comma followed by a space.
 Numbers are displayed in the same order as they are stored in the array.
-9-strcpy.c: C function that copies the string pointed to by src, including the terminating null byte (\0), to the buffer pointed to by dest.
 
-Returns the pointer to dest.
+9-strcpy.c Write a function that convert a string to an integer..
+
 100-atoi.c: C function that converts a string to an integer without using long, new variable arrays, or hard-coded special values, as follows:
 
 The number in the string can be preceded by an infinite number of characters.
